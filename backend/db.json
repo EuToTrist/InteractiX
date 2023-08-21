@@ -1,0 +1,32 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Upa de elo no lol",
+      "statusFinalizado": false,
+      "categoria": "Casa",
+      "prioridade": "Alta"
+    },
+    {
+      "id": 2,
+      "descricao": "chora pela morena",
+      "statusFinalizado": false,
+      "categoria": "Casa",
+      "prioridade": "Normal"
+    },
+    {
+      "id": 3,
+      "descricao": "estudar ",
+      "statusFinalizado": false,
+      "categoria": "Estudos",
+      "prioridade": "Alta"
+    },
+    {
+      "id": 4,
+      "descricao": "mandar curriculo pra todo mundo ate alguem me contratar por pena",
+      "categoria": "Trabalho",
+      "statusFinalizado": true,
+      "prioridade": "Baixa"
+    }
+  ]
+}
