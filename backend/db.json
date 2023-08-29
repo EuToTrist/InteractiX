@@ -2,14 +2,14 @@
   "tarefas": [
     {
       "id": 1,
-      "descricao": "Upa de elo no lol",
+      "descricao": "lavar a louça",
       "statusFinalizado": false,
       "categoria": "Casa",
       "prioridade": "Alta"
     },
     {
       "id": 2,
-      "descricao": "chora pela morena",
+      "descricao": "varrer a casa",
       "statusFinalizado": false,
       "categoria": "Casa",
       "prioridade": "Normal"
@@ -23,7 +23,7 @@
     },
     {
       "id": 4,
-      "descricao": "mandar curriculo pra todo mundo ate alguem me contratar por pena",
+      "descricao": "procurar estágio",
       "categoria": "Trabalho",
       "statusFinalizado": true,
       "prioridade": "Baixa"
